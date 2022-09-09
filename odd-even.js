@@ -1,4 +1,4 @@
 let a = 10;
 
-if(a%5==0){
-console.log("Yes");
+if(a%2==0){
+console.log("Yes"); }
